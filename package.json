@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dion-dickens/dion-dickens6.git"
+    "url": "git+https://github.com/robbysoerya/bandreg-tea.git"
   },
-  "author": "dion-dickens",
+  "author": "robbysoerya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dion-dickens/dion-dickens6/issues"
+    "url": "https://github.com/robbysoerya/bandreg-tea/issues"
   },
-  "homepage": "https://github.com/dion-dickens/dion-dickens6#readme",
+  "homepage": "https://github.com/robbysoerya/bandreg-tea#readme",
   "dependencies": {
     "get_eth_balance": "^1.0.1",
     "hatd_get_eth": "^1.0.1",
